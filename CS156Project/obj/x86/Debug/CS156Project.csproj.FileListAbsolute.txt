@@ -1,0 +1,40 @@
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\CS156Project.exe
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\CS156Project.pdb
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\MainWindow.baml
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\MainWindow.g.cs
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\App.g.cs
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\CS156Project_MarkupCompile.cache
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\CS156Project.g.resources
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\CS156Project.Properties.Resources.resources
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\CS156Project.exe
+c:\users\d4rkfr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\obj\x86\Debug\CS156Project.pdb
+C:\Users\D4rkFr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\D4rkFr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.dll
+C:\Users\D4rkFr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.xml
+C:\Users\D4rkFr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\D4rkFr4g\documents\visual studio 2010\Projects\CS156Project\CS156Project\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\CS156Project.exe.manifest
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\CS156Project.application
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\CS156Project.exe
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\CS156Project.pdb
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.dll
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.xml
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\MainWindow.baml
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\MainWindow.g.cs
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\App.g.cs
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project_MarkupCompile.cache
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.g.resources
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.Properties.Resources.resources
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.exe.manifest
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.application
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.exe
+C:\Users\D4rkFr4g\Google Drive\CS156\CS156Project\CS156Project\obj\x86\Debug\CS156Project.pdb
